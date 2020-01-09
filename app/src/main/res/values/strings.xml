@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArticlePost</string>
+    <string name="title">Title :</string>
+    <string name="choose_file">Choose File</string>
+    <string name="upload">Upload</string>
+    <string name="image_desc">imageDesc</string>
+    <string name="description">Description :</string>
+</resources>
